@@ -305,7 +305,7 @@ payload:
   - DOMAIN,github.global.ssl.fastly.net
   - DOMAIN,nytimes.map.fastly.net
     # > Github
-  - HOSTm,raw.github.com
+  - Host,raw.github.com
   # > Line
   - DOMAIN-SUFFIX,line.me
   - DOMAIN-SUFFIX,line-apps.com
