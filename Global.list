@@ -305,7 +305,7 @@ DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,github.global.ssl.fastly.net
 DOMAIN,nytimes.map.fastly.net
 # > Github
-DOMAIN,raw.github.com
+HOST,raw.github.com
 IP-CIDR,185.199.109.133,no-resolve
 # > Line
 DOMAIN-SUFFIX,line.me
