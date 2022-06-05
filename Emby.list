@@ -2,7 +2,7 @@
 DOMAIN,emby.nexitally.com
 
 # > 流媒体emby-charontv服务器
-DOMAIN,charontv.com
+DOMAIN-SUFFIX,charontv.com
 
 # > 流媒体emby-paoche服务器
 DOMAIN,emby.cjpc.cc
