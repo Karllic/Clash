@@ -1,2 +1,5 @@
 #raw.githubusercontent.com IP段补全
 IP-CIDR,185.199.109.0/24,no-resolve
+
+#iptv
+DOMAIN,m3u.52sf.ga
